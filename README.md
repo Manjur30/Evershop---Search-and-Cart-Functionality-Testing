@@ -21,7 +21,7 @@ https://demo.evershop.io
   
 - Test execution report
   
-  Google Sheet Link:
+  Google Sheet Link: https://docs.google.com/spreadsheets/d/104QhIQtd68J9WuVO131VryLd1dBpcvY_BztZWkqUnDQ/edit?usp=sharing
   
 - Defect logs
   
