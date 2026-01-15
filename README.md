@@ -16,11 +16,16 @@ https://demo.evershop.io
 ## Test Artifacts
 - Requirement clarification questions
 - Test cases
+
   Google Sheet Link: https://docs.google.com/spreadsheets/d/1typSopkNf43uz0qWKWD5GrKVyl32DwtkOUhJnNqO0R4/edit?usp=sharing
+  
 - Test execution report
-  Google Sheet Link :
+  
+  Google Sheet Link:
+  
 - Defect logs
-   Google Sheet Link :
+  
+   Google Sheet Link:https://docs.google.com/spreadsheets/d/1fm8QzdZ0ghi2QlHTI_bq2_Wu4oNplT_S9quAc3xqtMU/edit?usp=sharing
 
 ## Tools Used
 - Google Docs / Excel
